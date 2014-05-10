@@ -1,0 +1,12 @@
+{
+  "name": "arduino",
+  "version": "0.0.0",
+  "description": "Arduino integration with atom",
+  "repository": "https://github.com/atom/arduino",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
